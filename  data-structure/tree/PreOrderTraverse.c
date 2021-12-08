@@ -40,12 +40,35 @@ void CreateBiTree(BiTree *T) {
     (*T)->lchild->lchild->rchild = NULL;
 }
 
+////模拟操作结点元素的函数，输出结点本身的数值
+//void displayElem(BiTNode *elem) {
+//    printf("%d ", elem->data);
+//}
+//
+////先序遍历-递归实现
+//void PreOrderTraverse(BiTree T) {
+//    if (T) {
+//        displayElem(T);//调用操作结点数据的函数方法
+//        PreOrderTraverse(T->lchild);//访问该结点的左孩子
+//        PreOrderTraverse(T->rchild);//访问该结点的右孩子
+//    }
+//    //如果结点为空，返回上一层
+//    return;
+//}
+//
+//int main() {
+//    BiTree Tree;
+//    CreateBiTree(&Tree);
+//    printf("先序遍历: \n");
+//    PreOrderTraverse(Tree);
+//}
+
 //模拟操作结点元素的函数，输出结点本身的数值
 void displayElem(BiTNode *elem) {
     printf("%d ", elem->data);
 }
 
-//先序遍历
+//先序遍历 - 非递归实现
 void PreOrderTraverse(BiTree T) {
     if (T) {
         displayElem(T);//调用操作结点数据的函数方法
