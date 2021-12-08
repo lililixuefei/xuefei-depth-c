@@ -6,6 +6,7 @@
 #include <stdlib.h>
 
 #define TElemType int
+
 //构造结点的结构体
 typedef struct BiTNode {
     TElemType data;//数据域
