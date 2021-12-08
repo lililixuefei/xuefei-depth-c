@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="xuefei_depth_c"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkBiTree">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/LinkBiTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkBiTree"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="LinkBiTree/fast">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/LinkBiTree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 LinkBiTree/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SingleLinkedList">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/SingleLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 SingleLinkedList"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SingleLinkedList/fast">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/SingleLinkedList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 SingleLinkedList/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PreOrderTraverse">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/PreOrderTraverse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 PreOrderTraverse"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PreOrderTraverse/fast">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/PreOrderTraverse" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 PreOrderTraverse/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ContiguousList">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/ContiguousList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 ContiguousList"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ContiguousList/fast">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/ContiguousList" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 ContiguousList/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xuefei_depth_c">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/xuefei_depth_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 xuefei_depth_c"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="xuefei_depth_c/fast">
+				<Option output="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/xuefei_depth_c" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 xuefei_depth_c/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/xuefei/CLionProjects/xuefei-depth-c/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/ data-structure/linear-list/ContiguousList.c">
+			<Option target="ContiguousList"/>
+		</Unit>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/ data-structure/linear-list/SingleLinkedList.c">
+			<Option target="SingleLinkedList"/>
+		</Unit>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/ data-structure/tree/LinkBiTree.c">
+			<Option target="LinkBiTree"/>
+		</Unit>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/ data-structure/tree/PreOrderTraverse.c">
+			<Option target="PreOrderTraverse"/>
+		</Unit>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/main.c">
+			<Option target="xuefei_depth_c"/>
+		</Unit>
+		<Unit filename="/Users/xuefei/CLionProjects/xuefei-depth-c/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

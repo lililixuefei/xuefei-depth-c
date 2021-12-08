@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xuefei/CLionProjects/xuefei-depth-c/ data-structure/tree/PreOrderTraverse.c
+stdio.h
+-
+stdlib.h
+-
+
